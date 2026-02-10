@@ -15,3 +15,7 @@
   ## Feature Requests
 
   Have an idea to make First Loaf better? Open an issue with **[Feature Request]** in the title.
+
+
+# Contact Me:
+firstloafapp@gmail.com
